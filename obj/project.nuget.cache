@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJ680brx9StOziEApysm/c4S8C5WD1M3P1jOcnKIhiZRbeYrZG+pu7PIgABa5ar3PAn5Ecxgeb268ohgMncPWg==",
+  "dgSpecHash": "gsOsJ7VaXdXE2+QOmaPmEe/pMrQC15h5fURCRroti3JzMq6RKAf9CCK+DpgtrwmoD0EqTUHlMDYgMMY/kbgeZw==",
   "success": true,
-  "projectFilePath": "/Users/pedro15/Progetti/LinkSwiss/MusicCollection/Format/Vynil/Vynil.csproj",
+  "projectFilePath": "/Users/pedro15/Progetti/LinkSwiss/MusicCollection/Format/musiccollection-format-vynil/Vynil.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

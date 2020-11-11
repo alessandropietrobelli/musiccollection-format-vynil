@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pedro15/Progetti/LinkSwiss/MusicCollection/Format/Vynil/Vynil.csproj",
+      "projectUniqueName": "/Users/pedro15/Progetti/LinkSwiss/musiccollection/Format/musiccollection-format-vynil/Vynil.csproj",
       "projectName": "Vynil",
-      "projectPath": "/Users/pedro15/Progetti/LinkSwiss/MusicCollection/Format/Vynil/Vynil.csproj",
+      "projectPath": "/Users/pedro15/Progetti/LinkSwiss/musiccollection/Format/musiccollection-format-vynil/Vynil.csproj",
       "packagesPath": "/Users/pedro15/.nuget/packages/",
-      "outputPath": "/Users/pedro15/Progetti/LinkSwiss/MusicCollection/Format/Vynil/obj/",
+      "outputPath": "/Users/pedro15/Progetti/LinkSwiss/musiccollection/Format/musiccollection-format-vynil/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
